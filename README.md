@@ -15,7 +15,7 @@
 - 📫 How to reach me **gauravfar93@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zkN9y_FDNZs6hE8jJVHLjkwk-lR47F16/view?usp=sharing](https://drive.google.com/file/d/1zkN9y_FDNZs6hE8jJVHLjkwk-lR47F16/view?usp=sharing)
-
+<img height="250px" width="400px" src="https://qph.cf2.quoracdn.net/main-qimg-9713ba0cabb4c3217b4b0bd9f3014c86" alt="image" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gauravfar93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravfar93" height="30" width="40" /></a>
